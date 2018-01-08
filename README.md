@@ -1,0 +1,2 @@
+# moz-website
+Example Website
